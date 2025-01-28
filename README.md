@@ -24,4 +24,4 @@ This website pulls off a harmless, hilarious surprise. Simple yet effective, itâ
 
 ## Credits ğŸ“·
 
-Created by [Your Name], professional prankster.
+Created by Hassam Anas.
