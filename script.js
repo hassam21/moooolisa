@@ -5,14 +5,14 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Bestiee. I owe you one.";
+    question.innerHTML = "Bestiee. I owe you one.\nTEXT ME";
     gif.src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM0Mnc2djFsbW1kbXV6Z3lsaDNlbnl3bmVua3ZtaW5ycDRiNm5rayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wIePCLOwUQ4RW/giphy.gif";
 
 
     // Hide the No button
     noBtn.style.display = "none";
     yesBtn.style.display= "none";
-    question.innerHTML = "TEXT ME";
+    //question.innerHTML = "TEXT ME";
 });
 
 // Make the No button move randomly on hover
